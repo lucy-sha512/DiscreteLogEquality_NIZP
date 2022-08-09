@@ -1,1 +1,1 @@
-# DiscreteLogEquality_NIZP
+# DiscreteLogEquality Non Interactive Zero Knowledge proof
